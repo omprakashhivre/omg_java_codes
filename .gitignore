@@ -1,0 +1,4 @@
+hello
+*.class
+/bin
+.class
