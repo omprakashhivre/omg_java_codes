@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hello  this is file 1 text
 modidfied again by master 
 end line 2
+=======
+ihello  this is file 1 text by master branchwq
+another line added by feature branch ok 
+
+>>>>>>> feature
 end line one1
