@@ -1,2 +1,4 @@
 hello  this is file 1 text
+modidfied again by master 
+end line 2
 end line one1
