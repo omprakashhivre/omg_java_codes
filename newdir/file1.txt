@@ -1,3 +1,4 @@
 ihello  this is file 1 text by master branchwq
+another line added by feature branch ok 
 
 end line one1
